@@ -41,5 +41,5 @@ import { Notify } from 'notiflix/build/notiflix-notify-aio';
 	      });
 	    numberDelay += numberStep;
 	  }
-	}
+};
 
